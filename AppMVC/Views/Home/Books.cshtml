@@ -1,0 +1,18 @@
+@model IEnumerable<AppMVC.Models.Book>
+
+<h1>Livres</h1>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Number of volumes</th>
+        <th>Details</th>
+    </tr>
+        @foreach (var book in Model){
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.NumberOfVolume</td>
+            <td><a href="@Url.Action("BookDetails", "Home", new { id = book.Id })">Voir le detail</a></td>
+        </tr>
+        }
+</table>

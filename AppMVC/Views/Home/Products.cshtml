@@ -1,0 +1,18 @@
+@model IEnumerable<AppMVC.Models.Product>
+
+<h1>Products</h1>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Details</th>
+    </tr>
+        @foreach (var product in Model){
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td><a href="@Url.Action("ProductDetails", "Home", new { id = product.Id })">Voir le detail</a></td>
+        </tr>
+        }
+</table>
