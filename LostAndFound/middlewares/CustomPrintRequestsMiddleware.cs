@@ -11,8 +11,7 @@ public class CustomPrintRequestMiddleware {
     }
 
     public async Task InvokeAsync(HttpContext context){
-        Console.WriteLine($"Method: {context.Request.Method}");
-        Console.WriteLine($"URL path: {context.Request.Path}");
+        Console.WriteLine($"Request: {context.Request.Method} {context.Request.Path}");
         await _next(context);
         Console.WriteLine($"Response status code value: {context.Response.StatusCode}");
     }
