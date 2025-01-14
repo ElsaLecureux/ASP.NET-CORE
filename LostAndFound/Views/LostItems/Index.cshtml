@@ -1,0 +1,20 @@
+@model IEnumerable<LostAndFound.Models.ListItem>
+
+<div class="text-center">
+    <h1 class="display-4">Lost Items List</h1>
+    <table>
+    <tr>
+        <th>Name</th>
+        <th>Location Found</th>
+        <th>Date Found</th>
+    </tr>
+        @foreach (var item in Model){
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.LocationFound</td>
+            <td>@item.DateFound</td>
+            <td><a href="@Url.Action("Details", "LostItems", new { id = item.Id })">Voir le detail</a></td>
+        </tr>
+        }
+</table>
+</div>
