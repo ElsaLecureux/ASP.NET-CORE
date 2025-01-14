@@ -28,3 +28,34 @@ C:\Users\zapat\Desktop\Cours i\ASP.NET Core\AppMVC\obj\Debug\net8.0\refint\AppMV
 C:\Users\zapat\Desktop\Cours i\ASP.NET Core\AppMVC\obj\Debug\net8.0\AppMVC.pdb
 C:\Users\zapat\Desktop\Cours i\ASP.NET Core\AppMVC\obj\Debug\net8.0\AppMVC.genruntimeconfig.cache
 C:\Users\zapat\Desktop\Cours i\ASP.NET Core\AppMVC\obj\Debug\net8.0\ref\AppMVC.dll
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.AssemblyInfoInputs.cache
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.AssemblyInfo.cs
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.RazorAssemblyInfo.cache
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.RazorAssemblyInfo.cs
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.sourcelink.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.dll
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\refint\AppMVC.dll
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.pdb
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\AppMVC.staticwebassets.runtime.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\AppMVC.exe
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\AppMVC.deps.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\AppMVC.runtimeconfig.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\AppMVC.dll
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\bin\Debug\net8.0\AppMVC.pdb
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets\msbuild.AppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.AppMVC.props
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AppMVC.props
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AppMVC.props
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\scopedcss\bundle\AppMVC.styles.css
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\scopedcss\projectbundle\AppMVC.bundle.scp.css
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\AppMVC.genruntimeconfig.cache
+C:\Users\zapat\Desktop\Cours i\ASP.NET-CORE\AppMVC\obj\Debug\net8.0\ref\AppMVC.dll

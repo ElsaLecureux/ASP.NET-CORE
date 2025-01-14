@@ -1,0 +1,17 @@
+@model AppMVC.Models.Book
+
+<h1>Add a new book to the list</h1>
+
+<Form method="post" asp-controller="Home" asp-action="CreateBook">
+    <label for="id">Id</label>
+    <input type="number" asp-for="@Model.Id" required/>
+
+    <label for="title">Title</label>
+    <input type="text" asp-for="@Model.Title" required/>
+
+    <label for="numberOfVolume">Number of volumes</label>
+    <input type="number" asp-for="@Model.NumberOfVolume" required/>
+
+    <button type="submit">Add Book</button>
+</Form>
+

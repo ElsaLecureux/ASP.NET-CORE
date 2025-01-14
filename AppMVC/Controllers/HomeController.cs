@@ -70,9 +70,18 @@ public class HomeController : Controller
         return RedirectToAction("Books");
     }
 
-    public IActionResult CreateBook()
+    public IActionResult BookForm()
     {
-        
+        return View();
+    }
+
+    public IActionResult CreateBook(Book book)
+    {
+        Console.WriteLine(book.NumberOfVolume);
+       Book createdBook = new Book{Id= book.Id, Title=book.Title, NumberOfVolume=book.NumberOfVolume};
+       booksList.Add(createdBook);
+       Console.WriteLine(createdBook.NumberOfVolume);
+       return RedirectToAction("Books");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

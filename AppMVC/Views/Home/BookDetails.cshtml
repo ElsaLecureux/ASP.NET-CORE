@@ -1,6 +1,6 @@
 @model AppMVC.Models.Book
 
 <h1>Detail d'un livre</h1>
-<p>Name: @Model.Title </p>
-<p>Price:  @Model.NumberOfVolume</p>
+<p>Title: @Model.Title </p>
+<p>Number of volumes:  @Model.NumberOfVolume</p>
 <a href="@Url.Action("DeleteBook", "Home", new { id = @Model.Id })">Supprimer le livre</a>
