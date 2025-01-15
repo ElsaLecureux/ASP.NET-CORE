@@ -1,0 +1,25 @@
+@model IEnumerable<Models.User>
+
+<h1>Search users</h1>
+
+<Form method="get" asp-controller="User" asp-action="SearchUsers">
+    <label>Type a keyword to find Users by their biography.</label>
+    <input name="keyword"/>
+
+    <button type="submit">Search</button>
+</Form>
+
+<h2>Users found</h2>
+
+<table>
+     <tr>
+        <th>Name</th>
+        <th>Details</th>
+    </tr>
+        @foreach (var user in Model){
+        <tr>
+            <td>@user.Name</td>
+            <td><a href="@Url.Action("UserDetails", "User", new { id = user.Id })">see details</a></td>
+        </tr>
+        }
+</table>

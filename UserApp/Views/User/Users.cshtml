@@ -1,0 +1,16 @@
+@model IEnumerable<Models.User>
+
+<h1>>Users List</h1>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Details</th>
+    </tr>
+        @foreach (var user in Model){
+        <tr>
+            <td>@user.Name</td>
+            <td><a href="@Url.Action("UserDetails", "User", new { id = user.Id })">see details</a></td>
+        </tr>
+        }
+</table>
