@@ -3,9 +3,6 @@
 <h1>Add a new book to the list</h1>
 
 <Form method="post" asp-controller="Home" asp-action="CreateBook">
-    <label for="id">Id</label>
-    <input type="number" asp-for="@Model.Id" required/>
-
     <label for="title">Title</label>
     <input type="text" asp-for="@Model.Title" required/>
 
